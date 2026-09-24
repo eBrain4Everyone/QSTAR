@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.728,
+        "auc_ovr_macro": 0.9611164629277157,
+        "f1_macro": 0.726264649603755,
+        "precision_macro": 0.7406097620111497,
+        "recall_macro": 0.7289887411288237,
+        "train_loss": 1.6189917653126824
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.8,
+        "auc_ovr_macro": 0.9733010249397843,
+        "f1_macro": 0.8006444871767586,
+        "precision_macro": 0.8082221701078846,
+        "recall_macro": 0.7984952340892932,
+        "train_loss": 1.069068344688057
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.8173333333333334,
+        "auc_ovr_macro": 0.9783962848656115,
+        "f1_macro": 0.8166503679719137,
+        "precision_macro": 0.8282389009193721,
+        "recall_macro": 0.8160255798110952,
+        "train_loss": 0.7998983808478018
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.82,
+        "auc_ovr_macro": 0.9805052001781978,
+        "f1_macro": 0.8195345452777953,
+        "precision_macro": 0.8224426093753596,
+        "recall_macro": 0.8207029571852151,
+        "train_loss": 0.6427327620803862
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.808,
+        "auc_ovr_macro": 0.981950965395969,
+        "f1_macro": 0.8074992538293528,
+        "precision_macro": 0.8113512417902582,
+        "recall_macro": 0.808970875205197,
+        "train_loss": 0.5438869732214993
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.816,
+        "auc_ovr_macro": 0.9829493794779507,
+        "f1_macro": 0.8195064319843979,
+        "precision_macro": 0.8319433122836639,
+        "recall_macro": 0.8162505887864551,
+        "train_loss": 0.4767045713120833
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate180_confidence_linear",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "confidence_linear",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.27066666666666667,
+        "auc_ovr_macro": 0.8156009563484485,
+        "f1_macro": 0.20327255133026387,
+        "precision_macro": 0.23655895106753216,
+        "recall_macro": 0.2825681080170327,
+        "train_loss": 2.2306121300933954
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.284,
+        "auc_ovr_macro": 0.8180906437445337,
+        "f1_macro": 0.2273029733773399,
+        "precision_macro": 0.22081241889667078,
+        "recall_macro": 0.2928627937445951,
+        "train_loss": 2.0212905371099485
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.296,
+        "auc_ovr_macro": 0.8496817789200065,
+        "f1_macro": 0.21095833082968687,
+        "precision_macro": 0.2080876840673871,
+        "recall_macro": 0.30089004585582024,
+        "train_loss": 1.8176253523145403
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.33866666666666667,
+        "auc_ovr_macro": 0.8623760929461884,
+        "f1_macro": 0.2727622355825658,
+        "precision_macro": 0.30961655535218136,
+        "recall_macro": 0.33513953849591244,
+        "train_loss": 1.6741013755475669
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.39866666666666667,
+        "auc_ovr_macro": 0.8787403795701287,
+        "f1_macro": 0.34732805584427845,
+        "precision_macro": 0.4411298373513589,
+        "recall_macro": 0.3893806843540154,
+        "train_loss": 1.5650658580593597
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.4013333333333333,
+        "auc_ovr_macro": 0.8767049169961234,
+        "f1_macro": 0.3107996100397304,
+        "precision_macro": 0.3690719088048865,
+        "recall_macro": 0.3852891486610379,
+        "train_loss": 1.466183292686491
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 4,
+    "config_id": "q6_d4",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "standard_qtl",
+    "num_qubits": 6,
+    "shots": 100,
+    "table": "table1"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

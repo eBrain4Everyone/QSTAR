@@ -1,0 +1,18 @@
+{
+  "dataset": "CIFAR-10",
+  "dataset_key": "cifar10",
+  "expected_seeds": [
+    1,
+    42,
+    48,
+    550,
+    2026
+  ],
+  "paper_tables_written": false,
+  "preview_tables_written": true,
+  "publication_ready": false,
+  "table1_all_seeds_full_10_epochs": false,
+  "table1_rows": 12,
+  "table2_all_seeds_full_10_epochs": false,
+  "table2_rows": 18
+}

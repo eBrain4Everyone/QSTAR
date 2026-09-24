@@ -1,0 +1,17 @@
+candidate_id,qubits,parameters,gates,validation_accuracy,test_accuracy,source_file,has_validation_evidence,has_test_evidence
+180,8,58,49,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt180_encoding_candidates.csv,False,False
+586,4,8,16,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv,False,False
+55,6,22,48,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv,False,False
+221,6,9,7,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv,False,False
+22,8,25,126,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv,False,False
+160,8,10,9,,,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv,False,False
+586,4,2110,16,,0.458,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv,False,True
+55,6,3170,48,,0.583,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv,False,True
+221,6,3157,7,,0.636,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv,False,True
+22,8,4219,126,,0.737,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv,False,True
+160,8,4204,9,,0.819,/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv,False,True
+0,8,25,126,,,/scratch/sr7849/QC_June28/ketgpt_filtered_candidates.csv,False,False
+1,8,58,49,,,/scratch/sr7849/QC_June28/ketgpt_filtered_candidates.csv,False,False
+0,8,4219,126,,0.752,/scratch/sr7849/QC_June28/results_fmnist_ketgpt_candidates.csv,False,True
+0,8,4219,126,,0.739,/scratch/sr7849/QC_June28/results_fmnist_ketgpt_candidates.csv,False,True
+1,8,4252,49,,0.785,/scratch/sr7849/QC_June28/results_fmnist_ketgpt_candidates.csv,False,True

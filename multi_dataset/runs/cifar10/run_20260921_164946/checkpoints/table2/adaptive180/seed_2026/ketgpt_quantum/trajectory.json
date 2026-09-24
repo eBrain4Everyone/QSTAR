@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.6213333333333333,
+        "auc_ovr_macro": 0.945284428859571,
+        "f1_macro": 0.5706368938392374,
+        "precision_macro": 0.6714626272134631,
+        "recall_macro": 0.6088904019214567,
+        "train_loss": 1.8058991862418956
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.7053333333333334,
+        "auc_ovr_macro": 0.9554514090599945,
+        "f1_macro": 0.6858064792324668,
+        "precision_macro": 0.7419769016655826,
+        "recall_macro": 0.7044324882712198,
+        "train_loss": 1.2783670712234383
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.7426666666666667,
+        "auc_ovr_macro": 0.9657974763583266,
+        "f1_macro": 0.7411548184330459,
+        "precision_macro": 0.760146938367914,
+        "recall_macro": 0.7396635064132464,
+        "train_loss": 1.0285181750480394
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.76,
+        "auc_ovr_macro": 0.9687264358518346,
+        "f1_macro": 0.7596506714042344,
+        "precision_macro": 0.772401940657901,
+        "recall_macro": 0.7589791139794327,
+        "train_loss": 0.8644949157435194
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.7653333333333333,
+        "auc_ovr_macro": 0.9702750787267735,
+        "f1_macro": 0.7666322366898958,
+        "precision_macro": 0.7745122844315017,
+        "recall_macro": 0.7657676606089578,
+        "train_loss": 0.7486518755891269
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.78,
+        "auc_ovr_macro": 0.9734800398034913,
+        "f1_macro": 0.7793121884344776,
+        "precision_macro": 0.7810163761295987,
+        "recall_macro": 0.781389560713288,
+        "train_loss": 0.6667485187824508
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 180,
+    "circuit_depth": 49,
+    "config_id": "adaptive_candidate180_ketgpt_quantum",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "ketgpt_quantum",
+    "num_qubits": 8,
+    "shots": 100,
+    "table": "table2"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.7266666666666667,
+        "auc_ovr_macro": 0.9577026603991564,
+        "f1_macro": 0.7136435462855903,
+        "precision_macro": 0.7467682999784466,
+        "recall_macro": 0.7216316151121849,
+        "train_loss": 1.6310858018416212
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.7706666666666667,
+        "auc_ovr_macro": 0.9704669128734915,
+        "f1_macro": 0.7706828900689596,
+        "precision_macro": 0.7850525068148037,
+        "recall_macro": 0.7708480483557512,
+        "train_loss": 1.0810726995306803
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.812,
+        "auc_ovr_macro": 0.9774721490730613,
+        "f1_macro": 0.811473573231061,
+        "precision_macro": 0.8178177603254454,
+        "recall_macro": 0.8127151355770857,
+        "train_loss": 0.8052473916371066
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.7813333333333333,
+        "auc_ovr_macro": 0.9760933701008605,
+        "f1_macro": 0.7753769537472621,
+        "precision_macro": 0.8140181136049263,
+        "recall_macro": 0.7770638058076496,
+        "train_loss": 0.6499381033997786
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.7973333333333333,
+        "auc_ovr_macro": 0.9798860719292483,
+        "f1_macro": 0.7960707989960302,
+        "precision_macro": 0.8100383910017361,
+        "recall_macro": 0.7981549291752101,
+        "train_loss": 0.5520260345778967
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.812,
+        "auc_ovr_macro": 0.9805892660294526,
+        "f1_macro": 0.8111436204267897,
+        "precision_macro": 0.8212599734007014,
+        "recall_macro": 0.8092236011172179,
+        "train_loss": 0.4833385113598709
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "linear",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "classical",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table1"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.36578645833333273,
+      "auc_ovr_macro": 0.8585928269848079,
+      "f1_macro": 0.3045276342008245,
+      "precision_macro": 0.4102617054596099,
+      "recall_macro": 0.37227860150313724,
+      "train_loss": 1.7589588645859595
+    },
+    "5": {
+      "accuracy": 0.41458854166666603,
+      "auc_ovr_macro": 0.8704576031489047,
+      "f1_macro": 0.3489411986571024,
+      "precision_macro": 0.4144260478995526,
+      "recall_macro": 0.4098108245014187,
+      "train_loss": 1.6532689560120704
+    },
+    "6": {
+      "accuracy": 0.4220260416666657,
+      "auc_ovr_macro": 0.8728523163282141,
+      "f1_macro": 0.36348610437543993,
+      "precision_macro": 0.397614016209165,
+      "recall_macro": 0.4312169419626406,
+      "train_loss": 1.567639267632278
+    },
+    "7": {
+      "accuracy": 0.4478437499999998,
+      "auc_ovr_macro": 0.882977390097585,
+      "f1_macro": 0.39820443297436603,
+      "precision_macro": 0.4093255592372173,
+      "recall_macro": 0.46136384575501865,
+      "train_loss": 1.4274709542042092
+    },
+    "8": {
+      "accuracy": 0.43640624999999955,
+      "auc_ovr_macro": 0.8816335282508365,
+      "f1_macro": 0.38304120799317154,
+      "precision_macro": 0.4132647154645475,
+      "recall_macro": 0.4426964117803726,
+      "train_loss": 1.3286392321377745
+    },
+    "9": {
+      "accuracy": 0.4530156250000008,
+      "auc_ovr_macro": 0.8870768654262796,
+      "f1_macro": 0.38943919778042807,
+      "precision_macro": 0.4189748254368611,
+      "recall_macro": 0.45909756340935115,
+      "train_loss": 1.280680164349041
+    },
+    "10": {
+      "accuracy": 0.44958333333333483,
+      "auc_ovr_macro": 0.892433525157954,
+      "f1_macro": 0.3909982197672325,
+      "precision_macro": 0.4282155241952405,
+      "recall_macro": 0.4561634014383927,
+      "train_loss": 1.2274020835293373
+    }
+  },
+  "history_count": 58,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 1,
+    "config_id": "q6_d1",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "standard_qtl",
+    "num_qubits": 6,
+    "shots": 100,
+    "table": "table1"
+  },
+  "minimum_history_runs": 20,
+  "seed": 2026
+}

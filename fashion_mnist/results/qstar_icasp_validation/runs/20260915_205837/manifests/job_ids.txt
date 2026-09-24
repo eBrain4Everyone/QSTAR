@@ -1,0 +1,13 @@
+run=/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837
+cifar_cache=17973717
+kmnist_cache=17973718
+fmnist_classical=17973719
+cifar_classical=17973720
+kmnist_classical=17973721
+existing_statistics=17973722
+candidate_audit=17973723
+shot_analysis=17973724
+frozen_alpha=17973725
+candidate160=17973726
+calibration=17973727
+aggregate=17973728

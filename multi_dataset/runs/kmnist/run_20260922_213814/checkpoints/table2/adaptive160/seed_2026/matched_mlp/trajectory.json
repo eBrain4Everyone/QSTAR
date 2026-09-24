@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.49333333333333335,
+        "auc_ovr_macro": 0.89236314288197,
+        "f1_macro": 0.4442334659650406,
+        "precision_macro": 0.5592134732482968,
+        "recall_macro": 0.5077224117113798,
+        "train_loss": 1.9251721272791238
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.6093333333333333,
+        "auc_ovr_macro": 0.9308291507915076,
+        "f1_macro": 0.5914614772223104,
+        "precision_macro": 0.6508873866845633,
+        "recall_macro": 0.6214846931799225,
+        "train_loss": 1.4627097567221277
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.708,
+        "auc_ovr_macro": 0.9498066073046669,
+        "f1_macro": 0.702997841213983,
+        "precision_macro": 0.7150862926331014,
+        "recall_macro": 0.7176835400062485,
+        "train_loss": 1.162500310213046
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.7373333333333333,
+        "auc_ovr_macro": 0.9600454997988219,
+        "f1_macro": 0.7341357800456428,
+        "precision_macro": 0.7424965343762338,
+        "recall_macro": 0.7462390079926609,
+        "train_loss": 0.9516679142650805
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.716,
+        "auc_ovr_macro": 0.9606225375695491,
+        "f1_macro": 0.7086974895786674,
+        "precision_macro": 0.7397245912647572,
+        "recall_macro": 0.7214635870465205,
+        "train_loss": 0.8128151026435364
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.7706666666666667,
+        "auc_ovr_macro": 0.9684188545478897,
+        "f1_macro": 0.7719819496154262,
+        "precision_macro": 0.7848387630819852,
+        "recall_macro": 0.7745446187905152,
+        "train_loss": 0.7039973741411266
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate160_matched_mlp",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "matched_mlp",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

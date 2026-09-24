@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.7706822916666661,
+      "auc_ovr_macro": 0.9719663721529471,
+      "f1_macro": 0.7680481659191536,
+      "precision_macro": 0.7757733165025188,
+      "recall_macro": 0.772972522219509,
+      "train_loss": 0.7206443345998734
+    },
+    "5": {
+      "accuracy": 0.7777395833333329,
+      "auc_ovr_macro": 0.9734693733061065,
+      "f1_macro": 0.7795033526074543,
+      "precision_macro": 0.7876344770899378,
+      "recall_macro": 0.7791868578170745,
+      "train_loss": 0.627981216311928
+    },
+    "6": {
+      "accuracy": 0.7879791666666673,
+      "auc_ovr_macro": 0.975450219940874,
+      "f1_macro": 0.7886137026068017,
+      "precision_macro": 0.7960059782498561,
+      "recall_macro": 0.7900018977734108,
+      "train_loss": 0.55323120295197
+    },
+    "7": {
+      "accuracy": 0.787171874999999,
+      "auc_ovr_macro": 0.9753780977646351,
+      "f1_macro": 0.7916026244169699,
+      "precision_macro": 0.8004750549259195,
+      "recall_macro": 0.7910617620274963,
+      "train_loss": 0.489585397509561
+    },
+    "8": {
+      "accuracy": 0.7971250000000011,
+      "auc_ovr_macro": 0.9759302074617834,
+      "f1_macro": 0.7981862366060305,
+      "precision_macro": 0.8019298631019179,
+      "recall_macro": 0.7989464099558109,
+      "train_loss": 0.44494515680893987
+    },
+    "9": {
+      "accuracy": 0.7913906249999996,
+      "auc_ovr_macro": 0.9764477269868725,
+      "f1_macro": 0.7938005017078731,
+      "precision_macro": 0.7971256280931822,
+      "recall_macro": 0.7955247627786635,
+      "train_loss": 0.4116169760596489
+    },
+    "10": {
+      "accuracy": 0.8053854166666663,
+      "auc_ovr_macro": 0.977354050875346,
+      "f1_macro": 0.8065467889344394,
+      "precision_macro": 0.8115073377576285,
+      "recall_macro": 0.8064033833963159,
+      "train_loss": 0.3836902698184215
+    }
+  },
+  "history_count": 54,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate160_matched_mlp",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "matched_mlp",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "minimum_history_runs": 20,
+  "seed": 2026
+}

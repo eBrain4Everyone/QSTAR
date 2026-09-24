@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.776578124999999,
+      "auc_ovr_macro": 0.9713247187714271,
+      "f1_macro": 0.7745656379954823,
+      "precision_macro": 0.7853949499994526,
+      "recall_macro": 0.7789946664509709,
+      "train_loss": 0.8877779718315996
+    },
+    "5": {
+      "accuracy": 0.7969166666666676,
+      "auc_ovr_macro": 0.9717022349712434,
+      "f1_macro": 0.7912265366152522,
+      "precision_macro": 0.8006093124309206,
+      "recall_macro": 0.7954505589498335,
+      "train_loss": 0.7606873381217688
+    },
+    "6": {
+      "accuracy": 0.7887760416666662,
+      "auc_ovr_macro": 0.9726887094472652,
+      "f1_macro": 0.7897126039329716,
+      "precision_macro": 0.796250903871773,
+      "recall_macro": 0.7893109691701349,
+      "train_loss": 0.6752304104384358
+    },
+    "7": {
+      "accuracy": 0.7834791666666673,
+      "auc_ovr_macro": 0.973033112383019,
+      "f1_macro": 0.7856717830607962,
+      "precision_macro": 0.7949932112260809,
+      "recall_macro": 0.7834319219100285,
+      "train_loss": 0.6055159935243233
+    },
+    "8": {
+      "accuracy": 0.800286458333333,
+      "auc_ovr_macro": 0.9744416003462606,
+      "f1_macro": 0.8000838804832915,
+      "precision_macro": 0.8049504845244733,
+      "recall_macro": 0.8022191231790414,
+      "train_loss": 0.5530614796638588
+    },
+    "9": {
+      "accuracy": 0.7989687499999973,
+      "auc_ovr_macro": 0.9748030793652924,
+      "f1_macro": 0.7980028162561884,
+      "precision_macro": 0.8040663523832203,
+      "recall_macro": 0.7985931101635747,
+      "train_loss": 0.5053570357046727
+    },
+    "10": {
+      "accuracy": 0.7939374999999999,
+      "auc_ovr_macro": 0.9750633704765183,
+      "f1_macro": 0.7930972414311166,
+      "precision_macro": 0.7999079729053542,
+      "recall_macro": 0.796829645166542,
+      "train_loss": 0.47421682460456227
+    }
+  },
+  "history_count": 61,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 180,
+    "circuit_depth": 49,
+    "config_id": "ketgpt_180",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "ketgpt",
+    "num_qubits": 8,
+    "shots": 100,
+    "table": "table1"
+  },
+  "minimum_history_runs": 20,
+  "seed": 2026
+}

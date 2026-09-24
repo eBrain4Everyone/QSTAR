@@ -1,0 +1,14 @@
+project_root=/scratch/sr7849/QC_June28
+run_root=/scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535
+seeds=1:42:48:550:2026
+created_utc=2026-08-12T13:45:35Z
+std_definition=sample standard deviation (ddof=1)
+classical_array_job=17206746
+standard_qtl_array_job=17206747
+ketgpt_array_job=17206748
+adaptive_array_job=17206749
+summary_job=17206750
+ketgpt_retry_array_job=17229760
+adaptive_retry_array_job=17229761
+replacement_summary_job=17229762
+cache_fix=unique PennyLane folder_path per mode and array task

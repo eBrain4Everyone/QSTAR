@@ -1,0 +1,281 @@
+QSTAR Table-I/II source capture
+root=/scratch/sr7849/QC_June28
+timestamp=2026-09-21T19:56:40+04:00
+
+FILES
+CAPTURE_MANIFEST.txt	106 bytes
+KetGPT_Qubit_Ablation/ketgpt180_encoding_candidates.csv	55 bytes
+KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv	98 bytes
+PlanB_step4_adaptive/run_step4_adaptive_ketgpt_qtl.py	14799 bytes
+PlanB_step4_adaptive/step4_adaptive_qtl.py	14799 bytes
+Step5_Full_Adaptive/step5_full_adaptive_ketgpt.py	21911 bytes
+discovered_launchers/Forecasting_run_qtl_forecaster.sbatch	794 bytes
+discovered_launchers/Forecasting_run_qtl_forecaster_ketgpt_qubits.sbatch	897 bytes
+discovered_launchers/ICASSP_multiseed_new_datasets_requirements_acceleration.txt	32 bytes
+discovered_launchers/KetGPT_MLP_Ablation_run_ketgpt_mlp_ablation.sbatch	725 bytes
+discovered_launchers/KetGPT_Qubit_Ablation_run_encoding_ketgpt180.sbatch	2283 bytes
+discovered_launchers/KetGPT_Qubit_Ablation_run_encoding_ketgpt180_checkpoint.sbatch	6916 bytes
+discovered_launchers/KetGPT_Qubit_Ablation_run_ketgpt_qubit_ablation.sbatch	801 bytes
+discovered_launchers/PlanB_step4_adaptive_run_step4_adaptive.sbatch	711 bytes
+discovered_launchers/PlanB_step4_adaptive_run_step4_ketgpt_adaptive.sbatch	748 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e1_autoresume.sbatch	5523 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e1_corrected.sbatch	671 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e2_v4_autoresume.sbatch	4078 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e2_v5_autoresume.sbatch	4201 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e2_v5_greedyfix_autoresume.sbatch	3643 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e5_v5_autoresume.sbatch	3875 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_e6_v5_autoresume.sbatch	4143 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_experiment_autoresume.sbatch	5427 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_v4_prepare_cache.sbatch	1039 bytes
+discovered_launchers/RL-Measurement-repo_RL_Aug_hqnn_v5_hparam_pilot.sbatch	601 bytes
+discovered_launchers/RL-Measurement-repo_run_ants_bees_e6_fake.sbatch	1778 bytes
+discovered_launchers/RL_Aug_hqnn_ants_bees.sbatch	854 bytes
+discovered_launchers/RL_Aug_hqnn_ants_bees_autoresume.sbatch	2931 bytes
+discovered_launchers/RL_Aug_hqnn_e1_autoresume.sbatch	5523 bytes
+discovered_launchers/RL_Aug_hqnn_e1_corrected.sbatch	671 bytes
+discovered_launchers/RL_Aug_hqnn_e2_v4_autoresume.sbatch	4078 bytes
+discovered_launchers/RL_Aug_hqnn_e2_v5_autoresume.sbatch	4201 bytes
+discovered_launchers/RL_Aug_hqnn_e2_v5_greedyfix_autoresume.sbatch	3643 bytes
+discovered_launchers/RL_Aug_hqnn_e5_v5_autoresume.sbatch	3875 bytes
+discovered_launchers/RL_Aug_hqnn_e6_marrakesh.sbatch	4883 bytes
+discovered_launchers/RL_Aug_hqnn_e6_v5_autoresume.sbatch	4143 bytes
+discovered_launchers/RL_Aug_hqnn_experiment_autoresume.sbatch	5427 bytes
+discovered_launchers/RL_Aug_hqnn_v4_prepare_cache.sbatch	1039 bytes
+discovered_launchers/RL_Aug_hqnn_v5_hparam_pilot.sbatch	601 bytes
+discovered_launchers/RL_Aug_run_ants_bees_e6_fake.sbatch	1778 bytes
+discovered_launchers/RL_Aug_run_ants_bees_e6_native.sbatch	1256 bytes
+discovered_launchers/RL_Aug_run_fashion_dqn_seeds.sbatch	1334 bytes
+discovered_launchers/Shot_Ablation_run_shot_ablation_antsbees.sbatch	707 bytes
+discovered_launchers/Shot_Ablation_run_shot_ablation_fmnist.sbatch	713 bytes
+discovered_launchers/Step5_Full_Adaptive_run_step5_full_adaptive.sbatch	750 bytes
+discovered_launchers/Step5_Full_Adaptive_run_step5_full_adaptive_antsbees.sbatch	766 bytes
+discovered_launchers/acceptance_validation_requirements.txt	25 bytes
+discovered_launchers/acceptance_validation_slurm_audit.sbatch	303 bytes
+discovered_launchers/acceptance_validation_slurm_baseline.sbatch	385 bytes
+discovered_launchers/acceptance_validation_slurm_cache.sbatch	493 bytes
+discovered_launchers/acceptance_validation_slurm_candidate160.sbatch	668 bytes
+discovered_launchers/acceptance_validation_slurm_classical_sweep.sbatch	343 bytes
+discovered_launchers/acceptance_validation_slurm_frozen_alpha.sbatch	607 bytes
+discovered_launchers/acceptance_validation_slurm_statistics.sbatch	452 bytes
+discovered_launchers/acceptance_validation_submit_all.sh	2379 bytes
+discovered_launchers/qstar_icasp_validation_requirements.txt	61 bytes
+discovered_launchers/qstar_icasp_validation_slurm_aggregate.sbatch	515 bytes
+discovered_launchers/qstar_icasp_validation_slurm_audit.sbatch	331 bytes
+discovered_launchers/qstar_icasp_validation_slurm_calibration.sbatch	401 bytes
+discovered_launchers/qstar_icasp_validation_slurm_classical.sbatch	565 bytes
+discovered_launchers/qstar_icasp_validation_slurm_existing_statistics.sbatch	338 bytes
+discovered_launchers/qstar_icasp_validation_slurm_prepare_dataset.sbatch	542 bytes
+discovered_launchers/qstar_icasp_validation_slurm_qstar_array.sbatch	439 bytes
+discovered_launchers/qstar_icasp_validation_slurm_shot.sbatch	392 bytes
+discovered_launchers/qstar_icasp_validation_submit_all.sh	4147 bytes
+discovered_launchers/qstar_multiseed_qstar_array.sbatch	298 bytes
+discovered_launchers/qstar_multiseed_submit_qstar_5seeds.sh	3448 bytes
+discovered_launchers/qstar_table12_source_capture_20260921_195639_qstar_multiseed_qstar_array.sbatch	298 bytes
+discovered_launchers/qstar_table12_source_capture_20260921_195639_qstar_multiseed_submit_qstar_5seeds.sh	3448 bytes
+discovered_launchers/qstar_tables34_multiseed_qstar_tables34_array.sbatch	322 bytes
+discovered_launchers/qstar_tables34_multiseed_submit_tables34_5seeds.sh	3491 bytes
+discovered_launchers/run_fixed_readout_cnn.sbatch	562 bytes
+discovered_launchers/run_fixed_readout_cnn_q8_l3.sbatch	586 bytes
+discovered_launchers/run_fixed_readout_cnn_q8_l3_antsbees.sbatch	622 bytes
+discovered_launchers/run_fmnist_qtl.sbatch	591 bytes
+discovered_launchers/run_ketgpt_candidates.sbatch	687 bytes
+discovered_launchers/run_missing_resource_ablation_qtl.sbatch	1116 bytes
+discovered_launchers/run_mqtbench_quantum_heads.sbatch	939 bytes
+discovered_launchers/run_random_readout_cnn.sbatch	950 bytes
+discovered_launchers/run_random_readout_cnn_q8_l3.sbatch	974 bytes
+discovered_launchers/run_random_readout_cnn_q8_l3_antsbees.sbatch	1010 bytes
+discovered_launchers/run_retrain_best_fixed_cnn_q8_l3_antsbees.sbatch	639 bytes
+discovered_launchers/run_retrain_best_random_cnn_q8_l3_antsbees.sbatch	643 bytes
+discovered_launchers/run_rl_readout_cnn.sbatch	566 bytes
+discovered_launchers/run_rl_readout_cnn_q8_l3.sbatch	590 bytes
+discovered_launchers/run_rl_readout_cnn_q8_l3_antsbees.sbatch	607 bytes
+discovered_launchers/run_rl_readout_flat_q8_l3_antsbees.sbatch	1029 bytes
+discovered_launchers/run_rl_readout_hqnn_flat_v2.sbatch	986 bytes
+discovered_launchers/run_shot_ablation_q8.sbatch	846 bytes
+discovered_launchers/run_stronger_quantum_heads.sbatch	1467 bytes
+ketgpt_filtered_candidates.csv	86 bytes
+multiseed_runs/run_20260812_134535/run_manifest.txt	513 bytes
+multiseed_runs/run_20260812_134535/summary/table1_all_seed_results.csv	21971 bytes
+multiseed_runs/run_20260812_134535/summary/table1_mean_std_numeric.csv	2375 bytes
+multiseed_runs/run_20260812_134535/summary/table1_paper_mean_std.csv	1051 bytes
+multiseed_runs/run_20260812_134535/summary/table2_all_seed_results.csv	25326 bytes
+multiseed_runs/run_20260812_134535/summary/table2_mean_std_numeric.csv	3644 bytes
+multiseed_runs/run_20260812_134535/summary/table2_paper_mean_std.csv	1463 bytes
+qstar_multiseed/README.txt	1321 bytes
+qstar_multiseed/__pycache__/summarize_qstar_multiseed.cpython-310.pyc	8064 bytes
+qstar_multiseed/qstar_array.sbatch	298 bytes
+qstar_multiseed/qstar_worker.sh	4561 bytes
+qstar_multiseed/qstar_worker.sh.before_cache_fix	4427 bytes
+qstar_multiseed/submit_qstar_5seeds.sh	3448 bytes
+qstar_multiseed/summarize_qstar_multiseed.py	9409 bytes
+run_fmnist_qtl_baselines.py	11868 bytes
+run_fmnist_qtl_ketgpt_search.py	17018 bytes
+
+GIT
+HEAD=6bc1cbff9b281e929e4462cfa68853fce85e327a
+ M Shot_Ablation/results_ketgpt180_shot_ablation_fmnist.csv
+ M Shot_Ablation/shot_fmnist_16550303.err
+ M Shot_Ablation/shot_fmnist_16550303.out
+ M Step5_Full_Adaptive/step5_full_adaptive_ketgpt.py
+ M run_fmnist_qtl_ketgpt_search.py
+?? --duplicates
+?? --format=JobID,JobName%30,State,ExitCode,Elapsed,Start,End
+?? Figures_2D_Publication/
+?? Figures_Resource_Plots/plots/
+?? Figures_Resource_Plots/plots_v2/
+?? Forecasting/__pycache__/
+?? HQNN_flat.py
+?? ICASSP_multiseed_new_datasets/
+?? ICASSP_multiseed_new_datasets_v0.1.tar.gz
+?? KetGPT_MLP_Ablation/__pycache__/
+?? KetGPT_MLP_Ablation/data/
+?? KetGPT_MLP_Ablation/datasets/
+?? KetGPT_Qubit_Ablation/__pycache__/
+?? KetGPT_Qubit_Ablation/checkpoints_encoding/
+?? KetGPT_Qubit_Ablation/data/
+?? KetGPT_Qubit_Ablation/datasets/
+?? PY
+?? PlanB_step4_adaptive/__pycache__/
+?? PlanB_step4_adaptive/checkpoints_step4/
+?? PlanB_step4_adaptive/data/
+?? PlanB_step4_adaptive/datasets/
+?? PlanB_step4_adaptive/run_step4_adaptive_qtl_old.pysssss
+?? RL-Measurement-repo/
+?? RL_Aug/
+?? Shot_Ablation/__pycache__/
+?? Shot_Ablation/data/
+?? Shot_Ablation/datasets/
+?? Step5_Full_Adaptive/__pycache__/
+?? Step5_Full_Adaptive/checkpoints_step4/
+?? Step5_Full_Adaptive/data/
+?? Step5_Full_Adaptive/datasets/
+?? Step5_Full_Adaptive/step5_full_adaptive_ketgpt.py.before_cache_fix
+?? __pycache__/
+?? acceptance_validation/
+?? acceptance_validation_package.zip
+?? data/
+?? datasets/
+?? final_fixed_cnn_q8_l3_antsbees_results/
+?? final_random_cnn_q8_l3_antsbees_results/
+?? fixed_readout_cnn_q8_l3_antsbees_results/
+?? fixed_readout_cnn_q8_l3_results/
+?? fixed_readout_cnn_results/
+?? logs/fixed_readout_cnn_16506809.err
+?? logs/fixed_readout_cnn_16506809.out
+?? logs/fixed_readout_cnn_16506812.err
+?? logs/fixed_readout_cnn_16506812.out
+?? logs/fixed_readout_cnn_q8_l3_16509946.err
+?? logs/fixed_readout_cnn_q8_l3_16509946.out
+?? logs/fixed_readout_cnn_q8_l3_antsbees_16518145.err
+?? logs/fixed_readout_cnn_q8_l3_antsbees_16518145.out
+?? logs/random_readout_cnn_16506837.err
+?? logs/random_readout_cnn_16506837.out
+?? logs/random_readout_cnn_q8_l3_16509947.err
+?? logs/random_readout_cnn_q8_l3_16509947.out
+?? logs/random_readout_cnn_q8_l3_antsbees_16518144.err
+?? logs/random_readout_cnn_q8_l3_antsbees_16518144.out
+?? logs/rl_flat_q8_l3_antsbees_16518133.err
+?? logs/rl_flat_q8_l3_antsbees_16518133.out
+?? logs/rl_flat_v2_16509852.err
+?? logs/rl_flat_v2_16509852.out
+?? logs/rl_readout_cnn_16505733.err
+?? logs/rl_readout_cnn_16505733.out
+?? logs/rl_readout_cnn_q8_l3_16509940.err
+?? logs/rl_readout_cnn_q8_l3_16509940.out
+?? logs/rl_readout_cnn_q8_l3_antsbees_16518132.err
+?? logs/rl_readout_cnn_q8_l3_antsbees_16518132.out
+?? make_readout_figures.py
+?? multiseed_runs/
+?? multiseed_slurm/
+?? paper_figures/
+?? qstar_acceptance_validation_v2.zip
+?? qstar_acceptance_validation_v2_fixed.zip
+?? qstar_icasp_validation.zip
+?? qstar_icasp_validation/README.md
+?? qstar_icasp_validation/__init__.py
+?? qstar_icasp_validation/__pycache__/
+?? qstar_icasp_validation/analysis/
+?? qstar_icasp_validation/common/
+?? qstar_icasp_validation/config.json
+?? qstar_icasp_validation/data/
+?? qstar_icasp_validation/experiments/
+?? qstar_icasp_validation/figures/
+?? qstar_icasp_validation/preflight.py
+?? qstar_icasp_validation/requirements.txt
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_1/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_2026/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_42/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_48/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_550/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate_audit/selection_evidence.json
+?? qstar_icasp_validation/results/20260915_205837/classical_cifar10/status.json
+?? qstar_icasp_validation/results/20260915_205837/classical_fmnist/status.json
+?? qstar_icasp_validation/results/20260915_205837/classical_kmnist/status.json
+?? qstar_icasp_validation/results/20260915_205837/figures/
+?? qstar_icasp_validation/results/20260915_205837/frozen_alpha/seed_2026/status.json
+?? qstar_icasp_validation/results/20260915_205837/frozen_alpha/seed_48/status.json
+?? qstar_icasp_validation/results/20260915_205837/tables/candidate160_table_rows.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/candidate160_table_rows_corrected.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/headline_paired_tests.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/paired_tests.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/shot_analysis.tex
+?? qstar_icasp_validation/runs/
+?? qstar_icasp_validation/slurm/
+?? qstar_icasp_validation/submit_all.sh
+?? qstar_multiseed/
+?? qstar_multiseed_runner.tar.gz
+?? qstar_original_results_audit_20260921_185010.txt
+?? qstar_pretrained_checkpoints.zip
+?? qstar_table12_source_capture_20260921_195639/
+?? qstar_table_provenance.tar.gz
+?? qstar_tables34_multiseed/
+?? qstar_tables34_multiseed_runner.tar.gz
+?? random_readout_cnn_q8_l3_antsbees_results/
+?? random_readout_cnn_q8_l3_results/
+?? random_readout_cnn_results/
+?? retrain_best_fixed_cnn_q8_l3_antsbees.py
+?? retrain_best_random_cnn_q8_l3_antsbees.py
+?? rl_readout_cnn_q8_l3_antsbees.py
+?? rl_readout_cnn_q8_l3_antsbees_results/
+?? rl_readout_cnn_q8_l3_results/
+?? rl_readout_cnn_test.log
+?? rl_readout_fixed_cnn.py
+?? rl_readout_fixed_cnn_q8_l3.py
+?? rl_readout_fixed_cnn_q8_l3_antsbees.py
+?? rl_readout_flat_q8_l3_antsbees.py
+?? rl_readout_flat_q8_l3_antsbees_results/
+?? rl_readout_flat_v2_results/
+?? rl_readout_hqnn_fashion_mnist_cnn.py
+?? rl_readout_hqnn_fashion_mnist_cnn_q8_l3.py
+?? rl_readout_hqnn_flat_v2.py
+?? rl_readout_random_cnn.py
+?? rl_readout_random_cnn_q8_l3.py
+?? rl_readout_random_cnn_q8_l3_antsbees.py
+?? rl_readout_results/
+?? run_fixed_readout_cnn.sbatch
+?? run_fixed_readout_cnn_q8_l3.sbatch
+?? run_fixed_readout_cnn_q8_l3_antsbees.sbatch
+?? run_fmnist_qtl_ketgpt_search.py.before_cache_fix
+?? run_random_readout_cnn.sbatch
+?? run_random_readout_cnn_q8_l3.sbatch
+?? run_random_readout_cnn_q8_l3_antsbees.sbatch
+?? run_retrain_best_fixed_cnn_q8_l3_antsbees.sbatch
+?? run_retrain_best_random_cnn_q8_l3_antsbees.sbatch
+?? run_rl_readout_cnn.sbatch
+?? run_rl_readout_cnn_q8_l3.sbatch
+?? run_rl_readout_cnn_q8_l3_antsbees.sbatch
+?? run_rl_readout_flat_q8_l3_antsbees.sbatch
+?? run_rl_readout_hqnn_flat_v2.sbatch
+?? slurm_job_provenance.txt
+?? sss
+?? tables34_multiseed_runs/
+?? tables34_multiseed_slurm/

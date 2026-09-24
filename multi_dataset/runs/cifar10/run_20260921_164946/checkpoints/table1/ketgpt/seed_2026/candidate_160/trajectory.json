@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.692,
+        "auc_ovr_macro": 0.9589862727080718,
+        "f1_macro": 0.6703412320548409,
+        "precision_macro": 0.7125255725784537,
+        "recall_macro": 0.6956817945166602,
+        "train_loss": 1.7090050264408714
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.772,
+        "auc_ovr_macro": 0.9734031687859437,
+        "f1_macro": 0.7672421197016137,
+        "precision_macro": 0.782615341012132,
+        "recall_macro": 0.7719654936693277,
+        "train_loss": 1.1460315793528593
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.7733333333333333,
+        "auc_ovr_macro": 0.9750944026744272,
+        "f1_macro": 0.7700927427564097,
+        "precision_macro": 0.7852999287583431,
+        "recall_macro": 0.7706225591238527,
+        "train_loss": 0.8503119211671943
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.7826666666666666,
+        "auc_ovr_macro": 0.9769580298583765,
+        "f1_macro": 0.7831162389898065,
+        "precision_macro": 0.7981814431093326,
+        "recall_macro": 0.7839693916152674,
+        "train_loss": 0.6897561128874471
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.7973333333333333,
+        "auc_ovr_macro": 0.9794728679808028,
+        "f1_macro": 0.7967759382830107,
+        "precision_macro": 0.7998054931654094,
+        "recall_macro": 0.7990850718420731,
+        "train_loss": 0.5853445074499998
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.7933333333333333,
+        "auc_ovr_macro": 0.9793106879372276,
+        "f1_macro": 0.791046414487111,
+        "precision_macro": 0.796456819367859,
+        "recall_macro": 0.7929177549116271,
+        "train_loss": 0.507417294483884
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 160,
+    "circuit_depth": 9,
+    "config_id": "ketgpt_160",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "ketgpt",
+    "num_qubits": 8,
+    "shots": 100,
+    "table": "table1"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

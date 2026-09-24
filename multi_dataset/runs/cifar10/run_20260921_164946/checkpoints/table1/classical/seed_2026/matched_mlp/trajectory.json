@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.6453333333333333,
+        "auc_ovr_macro": 0.9430438618157172,
+        "f1_macro": 0.6067253762374383,
+        "precision_macro": 0.715524673413434,
+        "recall_macro": 0.6352032717506177,
+        "train_loss": 1.791042733461337
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.732,
+        "auc_ovr_macro": 0.9555608289177601,
+        "f1_macro": 0.7267056249602578,
+        "precision_macro": 0.7378237102187997,
+        "recall_macro": 0.728946703202346,
+        "train_loss": 1.2253510438858117
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.74,
+        "auc_ovr_macro": 0.9606474914216123,
+        "f1_macro": 0.735488481595542,
+        "precision_macro": 0.7369667316809527,
+        "recall_macro": 0.7397899745944323,
+        "train_loss": 0.934665978851175
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.7626666666666667,
+        "auc_ovr_macro": 0.9659863330767665,
+        "f1_macro": 0.7613070784293049,
+        "precision_macro": 0.7649745238095764,
+        "recall_macro": 0.763332918650664,
+        "train_loss": 0.7768720430987222
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.7666666666666667,
+        "auc_ovr_macro": 0.9670226216165074,
+        "f1_macro": 0.7683339375072367,
+        "precision_macro": 0.7748018930858909,
+        "recall_macro": 0.7676806684413936,
+        "train_loss": 0.6703030942077923
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.7653333333333333,
+        "auc_ovr_macro": 0.9695042753450063,
+        "f1_macro": 0.7626220805449767,
+        "precision_macro": 0.7676006490598751,
+        "recall_macro": 0.7615166798144524,
+        "train_loss": 0.596700399497846
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "matched_mlp",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "classical",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table1"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

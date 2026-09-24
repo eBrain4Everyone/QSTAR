@@ -1,0 +1,14 @@
+{
+  "rows": 16,
+  "selection_claim": "NOT_VERIFIED_UNLESS_VALIDATION_ACCURACY_AND_SELECTION_LOG_ARE_PRESENT",
+  "sources": [
+    "/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt180_encoding_candidates.csv",
+    "/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv",
+    "/scratch/sr7849/QC_June28/KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv",
+    "/scratch/sr7849/QC_June28/ketgpt_filtered_candidates.csv",
+    "/scratch/sr7849/QC_June28/results_fmnist_ketgpt_candidates.csv"
+  ],
+  "status": "DATA_FOUND",
+  "test_accuracy_present": true,
+  "validation_accuracy_present": false
+}

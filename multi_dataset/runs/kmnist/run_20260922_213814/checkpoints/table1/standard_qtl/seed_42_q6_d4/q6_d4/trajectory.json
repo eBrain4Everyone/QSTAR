@@ -1,0 +1,96 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.19733333333333333,
+        "auc_ovr_macro": 0.7455553508781831,
+        "f1_macro": 0.11881242972470529,
+        "precision_macro": 0.15179807443196766,
+        "recall_macro": 0.20060477657935283,
+        "train_loss": 2.2748826311943224
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.324,
+        "auc_ovr_macro": 0.8061925211565996,
+        "f1_macro": 0.22483483035167465,
+        "precision_macro": 0.25282729619138183,
+        "recall_macro": 0.3122439484939485,
+        "train_loss": 2.1116526014822767
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.36533333333333334,
+        "auc_ovr_macro": 0.827344871241181,
+        "f1_macro": 0.29593218900034646,
+        "precision_macro": 0.3181332281003829,
+        "recall_macro": 0.3472614626092733,
+        "train_loss": 1.921350462096078
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.416,
+        "auc_ovr_macro": 0.8583779084043923,
+        "f1_macro": 0.3404818482953766,
+        "precision_macro": 0.3459715869521672,
+        "recall_macro": 0.39965155258940566,
+        "train_loss": 1.7782637042210514
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.43733333333333335,
+        "auc_ovr_macro": 0.8617812357644039,
+        "f1_macro": 0.361070108961265,
+        "precision_macro": 0.3920942853588657,
+        "recall_macro": 0.42096602011979056,
+        "train_loss": 1.6546825869639117
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.45066666666666666,
+        "auc_ovr_macro": 0.8770019611795196,
+        "f1_macro": 0.3861541548819427,
+        "precision_macro": 0.41158784501086254,
+        "recall_macro": 0.43876571028714234,
+        "train_loss": 1.5487068228255538
+      }
+    },
+    {
+      "epoch": 7,
+      "metrics": {
+        "accuracy": 0.488,
+        "auc_ovr_macro": 0.8738870535138498,
+        "f1_macro": 0.4269435329547366,
+        "precision_macro": 0.47615778714705365,
+        "recall_macro": 0.4762295245530323,
+        "train_loss": 1.4605741653227269
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 4,
+    "config_id": "q6_d4",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "standard_qtl",
+    "num_qubits": 6,
+    "shots": 100,
+    "table": "table1"
+  },
+  "seed": 42,
+  "stop_reason": "running"
+}

@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.7909166666666665,
+      "auc_ovr_macro": 0.9761339702737755,
+      "f1_macro": 0.7888915844979105,
+      "precision_macro": 0.7934551041709096,
+      "recall_macro": 0.7915417556712986,
+      "train_loss": 0.6572660991354815
+    },
+    "5": {
+      "accuracy": 0.8024322916666685,
+      "auc_ovr_macro": 0.9766936965935347,
+      "f1_macro": 0.7996529842730989,
+      "precision_macro": 0.8072700496454507,
+      "recall_macro": 0.7997809855604342,
+      "train_loss": 0.5646602917990836
+    },
+    "6": {
+      "accuracy": 0.7987395833333352,
+      "auc_ovr_macro": 0.9769691162782701,
+      "f1_macro": 0.7985866457559501,
+      "precision_macro": 0.8044293157293607,
+      "recall_macro": 0.7980380118500687,
+      "train_loss": 0.5055977449913442
+    },
+    "7": {
+      "accuracy": 0.7942552083333333,
+      "auc_ovr_macro": 0.9775472438899558,
+      "f1_macro": 0.7937330165706857,
+      "precision_macro": 0.7990205036137534,
+      "recall_macro": 0.7949506701942372,
+      "train_loss": 0.46175855510315345
+    },
+    "8": {
+      "accuracy": 0.7972552083333339,
+      "auc_ovr_macro": 0.9778885946602424,
+      "f1_macro": 0.7984984292629109,
+      "precision_macro": 0.8030714177713931,
+      "recall_macro": 0.7996458794093566,
+      "train_loss": 0.41675225674254335
+    },
+    "9": {
+      "accuracy": 0.8016406249999999,
+      "auc_ovr_macro": 0.9779542053986602,
+      "f1_macro": 0.8021285822645932,
+      "precision_macro": 0.8048109432688983,
+      "recall_macro": 0.8007791755560619,
+      "train_loss": 0.3900363353679321
+    },
+    "10": {
+      "accuracy": 0.8063072916666668,
+      "auc_ovr_macro": 0.9772643545874092,
+      "f1_macro": 0.8075920403195973,
+      "precision_macro": 0.8127017819844802,
+      "recall_macro": 0.8075768482206784,
+      "train_loss": 0.3615432861529132
+    }
+  },
+  "history_count": 54,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate180_confidence_linear",
+    "dataset": "cifar10",
+    "lr": 0.001,
+    "model_family": "confidence_linear",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "minimum_history_runs": 20,
+  "seed": 550
+}

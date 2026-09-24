@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.7451197916666663,
+      "auc_ovr_macro": 0.9534611918939191,
+      "f1_macro": 0.7492964385005876,
+      "precision_macro": 0.7675631665102698,
+      "recall_macro": 0.7223590256916523,
+      "train_loss": 1.0251985591559674
+    },
+    "5": {
+      "accuracy": 0.7728489583333334,
+      "auc_ovr_macro": 0.961933887926012,
+      "f1_macro": 0.7596334838975594,
+      "precision_macro": 0.7814693612617432,
+      "recall_macro": 0.7409813759250689,
+      "train_loss": 0.9004954352473349
+    },
+    "6": {
+      "accuracy": 0.7754687499999982,
+      "auc_ovr_macro": 0.9669541376249544,
+      "f1_macro": 0.7690237245415834,
+      "precision_macro": 0.7774296383569086,
+      "recall_macro": 0.7479675466219105,
+      "train_loss": 0.734237548394945
+    },
+    "7": {
+      "accuracy": 0.743651041666667,
+      "auc_ovr_macro": 0.9658300835283221,
+      "f1_macro": 0.7370079859004656,
+      "precision_macro": 0.751286892201865,
+      "recall_macro": 0.7636043790968995,
+      "train_loss": 0.6955444577322477
+    },
+    "8": {
+      "accuracy": 0.7813489583333336,
+      "auc_ovr_macro": 0.9704517474195303,
+      "f1_macro": 0.7889326237007982,
+      "precision_macro": 0.790303661701882,
+      "recall_macro": 0.7862689193599,
+      "train_loss": 0.6153797058439358
+    },
+    "9": {
+      "accuracy": 0.8028229166666668,
+      "auc_ovr_macro": 0.9712261060344654,
+      "f1_macro": 0.7922890621802217,
+      "precision_macro": 0.7997175825493421,
+      "recall_macro": 0.7995318892381085,
+      "train_loss": 0.5859165101391306
+    },
+    "10": {
+      "accuracy": 0.7981718749999982,
+      "auc_ovr_macro": 0.973274065058212,
+      "f1_macro": 0.8028064322247316,
+      "precision_macro": 0.8039247089170585,
+      "recall_macro": 0.7920085274819214,
+      "train_loss": 0.5234917143777301
+    }
+  },
+  "history_count": 34,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 160,
+    "circuit_depth": 9,
+    "config_id": "adaptive_candidate160_ketgpt_quantum",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "ketgpt_quantum",
+    "num_qubits": 8,
+    "shots": 100,
+    "table": "table2"
+  },
+  "minimum_history_runs": 20,
+  "seed": 550
+}

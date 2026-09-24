@@ -1,0 +1,344 @@
+===== QSTAR ORIGINAL RESULTS AUDIT =====
+Root: /scratch/sr7849/QC_June28
+Date: Mon Sep 21 18:50:10 +04 2026
+
+===== RUN DIRECTORIES =====
+3.4G	/scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535
+/scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535
+9.6G	/scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916
+/scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916
+1.3G	/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837
+/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837
+
+===== TABLE 1/2 SUMMARY CSVs =====
+1051 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table1_paper_mean_std.csv
+1463 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table2_paper_mean_std.csv
+1670 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table1_paper_mean_std.tex
+2186 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table2_paper_mean_std.tex
+2375 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table1_mean_std_numeric.csv
+3644 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table2_mean_std_numeric.csv
+21971 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table1_all_seed_results.csv
+25326 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/summary/table2_all_seed_results.csv
+
+===== TABLE 3/4 SUMMARY CSVs =====
+171 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table4_paper_mean_std.csv
+204 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table3_paper_mean_std.csv
+398 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table4_mean_std_numeric.csv
+470 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table3_mean_std_numeric.csv
+573 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table4_paper_mean_std.tex
+620 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table3_paper_mean_std.tex
+4697 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table3_all_seed_results.csv
+5724 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/summary/table4_all_seed_results.csv
+
+===== TABLE 1/2 PER-SEED CSVs =====
+86 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_1_candidates.csv
+86 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_2026_candidates.csv
+86 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_42_candidates.csv
+86 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_48_candidates.csv
+86 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_550_candidates.csv
+645 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q4_d1.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q4_d4.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q6_d1.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q8_d2.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q4_d1.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q4_d2.csv
+646 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q4_d4.csv
+647 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q6_d1.csv
+647 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q6_d4.csv
+647 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q6_d4.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q4_d2.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q6_d4.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q8_d2.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q4_d1.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q4_d1.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q4_d2.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q8_d1.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q6_d2.csv
+648 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q6_d4.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q6_d2.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q8_d2.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q4_d4.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q6_d1.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_42_q6_d2.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q8_d1.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q4_d2.csv
+649 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q4_d4.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_1_q8_d1.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q6_d1.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q6_d2.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_48_q8_d2.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q4_d1.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q6_d1.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q8_d1.csv
+650 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_550_q8_d2.csv
+651 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q4_d2.csv
+651 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q4_d4.csv
+651 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q6_d4.csv
+652 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q6_d2.csv
+653 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/standard_qtl/seed_2026_q8_d1.csv
+881 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/classical/seed_42.csv
+884 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/classical/seed_1.csv
+887 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/classical/seed_2026.csv
+887 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/classical/seed_48.csv
+887 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/classical/seed_550.csv
+981 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_42.csv
+982 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_1.csv
+984 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_2026.csv
+985 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_48.csv
+988 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table1/ketgpt/seed_550.csv
+4980 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table2/adaptive/seed_1.csv
+4995 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table2/adaptive/seed_48.csv
+5015 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table2/adaptive/seed_42.csv
+5018 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table2/adaptive/seed_550.csv
+5048 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/table2/adaptive/seed_2026.csv
+
+===== TABLE 3/4 PER-SEED CSVs =====
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_1_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_2026_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_42_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_48_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_550_candidate_160.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_1_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_1_candidate_22.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_2026_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_2026_candidate_22.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_42_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_42_candidate_22.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_48_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_48_candidate_22.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_550_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_550_candidate_22.csv
+727 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_1_candidate_160.csv
+727 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_48_candidate_160.csv
+728 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_1_candidate_22.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_1_candidate_180.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_2026_candidate_160.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_42_candidate_160.csv
+731 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_42_candidate_180.csv
+732 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_550_candidate_160.csv
+732 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_550_candidate_22.csv
+733 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_48_candidate_180.csv
+734 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_42_candidate_22.csv
+734 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_550_candidate_180.csv
+735 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_48_candidate_22.csv
+736 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_2026_candidate_22.csv
+738 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_2026_candidate_180.csv
+4746 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table3/seed_1.csv
+4821 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table3/seed_48.csv
+4835 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table3/seed_42.csv
+4855 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table3/seed_550.csv
+4881 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table3/seed_2026.csv
+
+===== CANDIDATE #160 FIXED-HEAD CSVs =====
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_1_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_2026_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_42_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_48_candidate_160.csv
+54 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_550_candidate_160.csv
+727 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_1_candidate_160.csv
+727 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_48_candidate_160.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_2026_candidate_160.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_42_candidate_160.csv
+732 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_550_candidate_160.csv
+
+===== CANDIDATE #180 FIXED-HEAD CSVs =====
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_1_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_2026_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_42_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_48_candidate_180.csv
+55 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/candidates/seed_550_candidate_180.csv
+730 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_1_candidate_180.csv
+731 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_42_candidate_180.csv
+733 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_48_candidate_180.csv
+734 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_550_candidate_180.csv
+738 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/table4/seed_2026_candidate_180.csv
+
+===== KETGPT HDF5 DATA USED BY TABLE 4 =====
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_22/ketgpt/ketgpt.h5
+
+===== ORIGINAL CHECKPOINT COUNTS =====
+Multiseed checkpoints:
+15
+Tables 3/4 checkpoints:
+15
+
+===== LATER CANDIDATE #160 ADAPTIVE RESULTS =====
+656 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_1/status.json
+661 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_42/status.json
+661 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_48/status.json
+666 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_550/status.json
+671 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_2026/status.json
+4919 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_2026/metrics.csv
+4931 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_42/metrics.csv
+4954 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_1/metrics.csv
+4962 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_550/metrics.csv
+4983 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_48/metrics.csv
+23525 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/all_seeds_metrics.csv
+
+===== MANIFESTS =====
+355 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/manifests/job_ids.txt
+394 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/run_manifest.txt
+513 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/run_manifest.txt
+75296 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/data/cifar10/features/manifest.json
+75564 bytes  /scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/data/kmnist/features/manifest.json
+
+===== SLURM LAUNCHERS =====
+
+===== MAIN SOURCE FILES =====
+
+FILE: run_fmnist_qtl_ketgpt_search.py
+Size: 17018 bytes | Modified: 2026-09-16 03:44:51.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+FILE: Step5_Full_Adaptive/step5_full_adaptive_ketgpt.py
+Size: 21911 bytes | Modified: 2026-09-16 03:44:51.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+FILE: PlanB_step4_adaptive/step4_adaptive_qtl.py
+Size: 14799 bytes | Modified: 2026-06-21 03:17:14.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+FILE: PlanB_step4_adaptive/run_step4_adaptive_ketgpt_qtl.py
+Size: 14799 bytes | Modified: 2026-06-24 13:40:22.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+FILE: KetGPT_Qubit_Ablation/run_ketgpt_qubit_ablation.py
+Size: 15328 bytes | Modified: 2026-07-01 03:41:09.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+FILE: KetGPT_Qubit_Ablation/run_ketgpt_qubit_ablation_encoding.py
+Size: 18895 bytes | Modified: 2026-07-04 20:52:18.000000000 +0400
+Commit: 88f0ec2d1d953c1607bf79400e8807232e7d83f5
+Date: Thu Jul 9 17:27:39 2026 +0400
+Subject: Initial upload
+
+===== CANDIDATE-SWEEP CSVs =====
+
+FILE: KetGPT_Qubit_Ablation/ketgpt_qubit_candidates.csv
+Size: 98 bytes | Modified: 2026-07-07 20:07:06.000000000 +0400
+ketgpt_id,num_qubits,num_params,gate_count
+586,4,8,16
+
+FILE: KetGPT_Qubit_Ablation/ketgpt180_encoding_candidates.csv
+Size: 55 bytes | Modified: 2026-07-04 20:52:31.000000000 +0400
+ketgpt_id,num_qubits,num_params,gate_count
+180,8,58,49
+
+FILE: KetGPT_Qubit_Ablation/results_ketgpt_qubit_ablation.csv
+Size: 1999 bytes | Modified: 2026-07-02 16:15:03.000000000 +0400
+run_key,dataset,task,backbone,model_name,ketgpt_id,seed,compressor_dim,epochs,batch_size,lr,train_time_sec,accuracy,precision_macro,recall_macro,f1_macro,auc_ovr_macro,inference_time_sec_total,inference_time_ms_per_sample,total_trainable_params,head_trainable_params,quantum_params,num_qubits,circuit_depth,num_gates_approx,shots,train_circuit_evaluations_approx,test_circuit_evaluations_approx,memory_usage_mb
+ketgpt_id586_q4_p8_g16_shots100_seed42,FashionMNIST,multiclass_10_class,Frozen ResNet18,ketgpt_quantum,586,42,4,10,16,0.001,10360.42805314064,0.458,0.4889127683109525,0.4449825457929411,0.4133903469780159,0.886998943495431,99.72346067428587,99.72346067428587,2110,58,8,4,ketgpt_variable,16,100,45220,63,1401.41796875
+
+FILE: ketgpt_filtered_candidates.csv
+Size: 86 bytes | Modified: 2026-06-22 15:08:53.000000000 +0400
+candidate_rank,ketgpt_id,num_qubits,num_params,gate_count
+0,22,8,25,126
+
+FILE: results_fmnist_ketgpt_candidates.csv
+Size: 1269 bytes | Modified: 2026-06-23 16:49:42.000000000 +0400
+dataset,task,backbone,model_name,candidate_rank,ketgpt_id,seed,compressor_dim,epochs,batch_size,lr,train_time_sec,accuracy,precision_macro,recall_macro,f1_macro,auc_ovr_macro,inference_time_sec_total,inference_time_ms_per_sample,total_trainable_params,head_trainable_params,quantum_params,num_qubits,circuit_depth,num_gates_approx,shots,train_circuit_evaluations_approx,test_circuit_evaluations_approx,memory_usage_mb
+FashionMNIST,multiclass_10_class,Frozen ResNet18,ketgpt_quantum,0,22,42,8,10,16,0.001,71568.65573835373,0.752,0.7472783043974397,0.7587545021685764,0.7489066853831131,0.9565815134019744,211.28104186058044,211.28104186058044,4219,115,25,8,ketgpt_variable,126,100,135660,63,1425.80078125
+
+===== GIT TRACKING STATUS FOR RESULTS =====
+?? KetGPT_Qubit_Ablation/__pycache__/
+?? KetGPT_Qubit_Ablation/checkpoints_encoding/
+?? KetGPT_Qubit_Ablation/data/
+?? KetGPT_Qubit_Ablation/datasets/
+?? multiseed_runs/
+?? qstar_icasp_validation/README.md
+?? qstar_icasp_validation/__init__.py
+?? qstar_icasp_validation/__pycache__/
+?? qstar_icasp_validation/analysis/
+?? qstar_icasp_validation/common/
+?? qstar_icasp_validation/config.json
+?? qstar_icasp_validation/data/
+?? qstar_icasp_validation/experiments/
+?? qstar_icasp_validation/figures/
+?? qstar_icasp_validation/preflight.py
+?? qstar_icasp_validation/requirements.txt
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_1/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_2026/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_42/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_48/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate160/seed_550/status.json
+?? qstar_icasp_validation/results/20260915_205837/candidate_audit/selection_evidence.json
+?? qstar_icasp_validation/results/20260915_205837/classical_cifar10/status.json
+?? qstar_icasp_validation/results/20260915_205837/classical_fmnist/status.json
+?? qstar_icasp_validation/results/20260915_205837/classical_kmnist/status.json
+?? qstar_icasp_validation/results/20260915_205837/figures/
+?? qstar_icasp_validation/results/20260915_205837/frozen_alpha/seed_2026/status.json
+?? qstar_icasp_validation/results/20260915_205837/frozen_alpha/seed_48/status.json
+?? qstar_icasp_validation/results/20260915_205837/tables/candidate160_table_rows.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/candidate160_table_rows_corrected.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/cifar10_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/fmnist_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/headline_paired_tests.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_final.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_sweep.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/kmnist_classical_sweep_expanded.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/paired_tests.tex
+?? qstar_icasp_validation/results/20260915_205837/tables/shot_analysis.tex
+?? qstar_icasp_validation/runs/
+?? qstar_icasp_validation/slurm/
+?? qstar_icasp_validation/submit_all.sh
+?? qstar_multiseed/
+?? qstar_tables34_multiseed/
+?? tables34_multiseed_runs/
+
+===== LARGE FILES THAT SHOULD NOT GO INTO NORMAL GIT =====
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/adaptive/task_1/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/adaptive/task_2/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/adaptive/task_4/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/ketgpt/task_1/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/ketgpt/task_3/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/multiseed_runs/run_20260812_134535/pennylane_data/ketgpt/task_4/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table3/seed_1/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table3/seed_2026/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table3/seed_42/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table3/seed_48/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table3/seed_550/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_1_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_2026_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_42_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_48_candidate_22/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_160/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_180/ketgpt/ketgpt.h5
+479207717 bytes  /scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_22/ketgpt/ketgpt.h5
+
+===== AUDIT COMPLETE =====

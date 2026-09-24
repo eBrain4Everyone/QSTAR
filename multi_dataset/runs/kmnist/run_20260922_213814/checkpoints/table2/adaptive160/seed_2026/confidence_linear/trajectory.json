@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.584,
+        "auc_ovr_macro": 0.9081189528297626,
+        "f1_macro": 0.5580029049126003,
+        "precision_macro": 0.6338956728718953,
+        "recall_macro": 0.5779086926505015,
+        "train_loss": 1.8390767843203437
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.6773333333333333,
+        "auc_ovr_macro": 0.938672028223146,
+        "f1_macro": 0.6733766947562495,
+        "precision_macro": 0.68823362860477,
+        "recall_macro": 0.687130616139268,
+        "train_loss": 1.347538602755482
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.7133333333333334,
+        "auc_ovr_macro": 0.9515920847158575,
+        "f1_macro": 0.7115370230371159,
+        "precision_macro": 0.7198482895847624,
+        "recall_macro": 0.7150802326931143,
+        "train_loss": 1.0743569769805534
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.736,
+        "auc_ovr_macro": 0.9571924097894217,
+        "f1_macro": 0.7326050550200072,
+        "precision_macro": 0.7479460438704965,
+        "recall_macro": 0.7313526658041497,
+        "train_loss": 0.9079614223394179
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.752,
+        "auc_ovr_macro": 0.9647270339751882,
+        "f1_macro": 0.7493066618066946,
+        "precision_macro": 0.7546061055258424,
+        "recall_macro": 0.7561661564261182,
+        "train_loss": 0.7897633732037437
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.756,
+        "auc_ovr_macro": 0.966668507313804,
+        "f1_macro": 0.7582421524292928,
+        "precision_macro": 0.7715384820740512,
+        "recall_macro": 0.7626551049095622,
+        "train_loss": 0.6931340664177013
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate160_confidence_linear",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "confidence_linear",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}

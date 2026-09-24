@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+conda-env/
+*.egg-info/
+
+# Raw datasets / cached features
+data/
+dataset/
+datasets/
+cache/
+caches/
+cached_features/
+features_cache/
+
+# Model checkpoints / large binary arrays
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Slurm/runtime noise
+slurm-*.out
+*.err
+*.out
+logs/
+
+# Misc
+.DS_Store
+
+# PennyLane/KetGPT dataset copies
+pennylane_data/
+**/pennylane_data/
+*.h5
+*.hdf5
+
+# QSTAR does not version feature/dataset caches
+**/cached_features/
+**/feature_cache/
+**/cache/

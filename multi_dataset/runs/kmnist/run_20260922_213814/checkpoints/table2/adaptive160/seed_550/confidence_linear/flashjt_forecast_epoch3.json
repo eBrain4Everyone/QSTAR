@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.7647031249999999,
+      "auc_ovr_macro": 0.963645110967237,
+      "f1_macro": 0.7623357640628152,
+      "precision_macro": 0.7713464591741686,
+      "recall_macro": 0.7664780344880641,
+      "train_loss": 0.8696911561235465
+    },
+    "5": {
+      "accuracy": 0.7786406249999994,
+      "auc_ovr_macro": 0.9679648872604613,
+      "f1_macro": 0.778026912873667,
+      "precision_macro": 0.7804967440349343,
+      "recall_macro": 0.7819057234245907,
+      "train_loss": 0.7608506967041372
+    },
+    "6": {
+      "accuracy": 0.7873020833333331,
+      "auc_ovr_macro": 0.9699365364006963,
+      "f1_macro": 0.781863408906614,
+      "precision_macro": 0.7912474408941141,
+      "recall_macro": 0.7837697181141843,
+      "train_loss": 0.6670897582482844
+    },
+    "7": {
+      "accuracy": 0.8002135416666663,
+      "auc_ovr_macro": 0.9727184317407558,
+      "f1_macro": 0.8009241770297039,
+      "precision_macro": 0.8098732076963995,
+      "recall_macro": 0.8020919480114136,
+      "train_loss": 0.6046043346059162
+    },
+    "8": {
+      "accuracy": 0.801572916666667,
+      "auc_ovr_macro": 0.9734485547498631,
+      "f1_macro": 0.8010572469454883,
+      "precision_macro": 0.8137464949054459,
+      "recall_macro": 0.8019087782845442,
+      "train_loss": 0.5469185749267564
+    },
+    "9": {
+      "accuracy": 0.8112708333333343,
+      "auc_ovr_macro": 0.9758021961397181,
+      "f1_macro": 0.8114296720575298,
+      "precision_macro": 0.8219772034149255,
+      "recall_macro": 0.8088010087676558,
+      "train_loss": 0.5028557833646305
+    },
+    "10": {
+      "accuracy": 0.8237187499999997,
+      "auc_ovr_macro": 0.9780912737024158,
+      "f1_macro": 0.8214532194407383,
+      "precision_macro": 0.8278817491943842,
+      "recall_macro": 0.821522317439758,
+      "train_loss": 0.46507649643795657
+    }
+  },
+  "history_count": 32,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate160_confidence_linear",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "confidence_linear",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "minimum_history_runs": 20,
+  "seed": 550
+}

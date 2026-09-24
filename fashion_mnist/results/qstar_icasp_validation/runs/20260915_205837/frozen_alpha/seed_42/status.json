@@ -1,0 +1,18 @@
+{
+  "command": [
+    "python",
+    "/scratch/sr7849/QC_June28/acceptance_validation/adapters/frozen_alpha_adapter.py",
+    "--root",
+    "/scratch/sr7849/QC_June28",
+    "--seed",
+    "42",
+    "--output",
+    "/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/frozen_alpha/seed_42/metrics.csv",
+    "--checkpoint-dir",
+    "/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/frozen_alpha/seed_42/checkpoints"
+  ],
+  "h5": "/scratch/sr7849/QC_June28/Step5_Full_Adaptive/datasets/ketgpt/ketgpt.h5",
+  "mode": "frozen_alpha",
+  "seed": 42,
+  "status": "COMPLETE"
+}

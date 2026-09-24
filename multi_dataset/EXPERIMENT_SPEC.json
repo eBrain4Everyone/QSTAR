@@ -1,0 +1,81 @@
+{
+  "project_name": "QSTAR ICASSP multiseed new datasets",
+  "datasets": ["cifar10", "kmnist", "svhn"],
+  "optional_reference_rerun": "fashionmnist",
+  "seeds": [1, 42, 48, 550, 2026],
+  "full_history_seeds": [1, 42, 48],
+  "flashjt_assisted_seeds": [550, 2026],
+  "table1": {
+    "classical": ["linear", "matched_mlp"],
+    "standard_qtl": [
+      {"qubits": 4, "depth": 1},
+      {"qubits": 4, "depth": 2},
+      {"qubits": 4, "depth": 4},
+      {"qubits": 6, "depth": 1},
+      {"qubits": 6, "depth": 2},
+      {"qubits": 6, "depth": 4},
+      {"qubits": 8, "depth": 1},
+      {"qubits": 8, "depth": 2}
+    ],
+    "ketgpt_candidates": [160, 180]
+  },
+  "table2": {
+    "thresholds": [0.70, 0.80, 0.90],
+    "ketgpt_candidates": [180, 160],
+    "rows_per_threshold": [
+      "Low-conf. MLP",
+      "Low-conf. KetGPT #180",
+      "Low-conf. KetGPT #160",
+      "Adaptive Classical",
+      "Adaptive KetGPT #180",
+      "Adaptive KetGPT #160"
+    ]
+  },
+  "training": {
+    "epochs_target": 10,
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "weight_decay": 0.00001,
+    "train_subset": 5000,
+    "test_subset": 1000,
+    "validation_fraction": 0.15,
+    "shots": 100,
+    "optimizer": "Adam",
+    "best_checkpoint_metric": "validation accuracy"
+  },
+  "cache": {
+    "enabled": true,
+    "backbone": "torchvision ResNet18 DEFAULT weights",
+    "feature_dim": 512,
+    "strict_eval_mode_backbone": true,
+    "split_after_cache": true
+  },
+  "flashjt": {
+    "forecast_epoch": 3,
+    "verify_epochs": [4, 5, 6],
+    "decision_epoch": 6,
+    "forecast_through_epoch": 10,
+    "minimum_full_history_runs": 20,
+    "max_individual_relative_error": 0.10,
+    "max_mean_relative_error": 0.05,
+    "monitored_metrics": [
+      "train_loss",
+      "accuracy",
+      "precision_macro",
+      "recall_macro",
+      "f1_macro",
+      "auc_ovr_macro"
+    ]
+  },
+  "early_stopping": {
+    "assisted_seeds_only": true,
+    "starts_after_epoch": 6,
+    "metric": "validation accuracy",
+    "patience": 3,
+    "min_delta": 0.001
+  },
+  "publication_gate": {
+    "preview_after_all_five_seed_outputs": true,
+    "paper_filenames_require_all_contributing_runs_to_reach_epoch_10": true
+  }
+}

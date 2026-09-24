@@ -1,0 +1,24 @@
+project_root=/scratch/sr7849/QC_June28
+package_root=/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets
+run_root=/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/runs/cifar10/run_20260921_165059
+dataset=cifar10
+feature_cache_dir=/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/cache/cifar10
+seeds=1:42:48:550:2026
+full_history_seeds=1:42:48
+flashjt_assisted_seeds=550:2026
+ketgpt_candidates=160:180
+standard_qtl_grid=q4d1:q4d2:q4d4:q6d1:q6d2:q6d4:q8d1:q8d2
+created_utc=2026-09-21T16:51:06Z
+std_definition=sample standard deviation (ddof=1)
+cache_job=18064332
+phase1_classical=18064333
+phase1_standard=18064334
+phase1_ketgpt=18064335
+phase1_adaptive180=18064336
+phase1_adaptive160=18064337
+phase2_classical=18064338
+phase2_standard=18064339
+phase2_ketgpt=18064340
+phase2_adaptive180=18064341
+phase2_adaptive160=18064342
+summary_job=18064343

@@ -1,0 +1,75 @@
+{
+  "forecast": {
+    "4": {
+      "accuracy": 0.3390416666666669,
+      "auc_ovr_macro": 0.8314401684119812,
+      "f1_macro": 0.2522799910667279,
+      "precision_macro": 0.3230297532811179,
+      "recall_macro": 0.3402157698317159,
+      "train_loss": 1.7243950212202779
+    },
+    "5": {
+      "accuracy": 0.3552031250000003,
+      "auc_ovr_macro": 0.8425522585512031,
+      "f1_macro": 0.2716064824167266,
+      "precision_macro": 0.34666735775292057,
+      "recall_macro": 0.34604420215133697,
+      "train_loss": 1.6521391208752767
+    },
+    "6": {
+      "accuracy": 0.3767604166666663,
+      "auc_ovr_macro": 0.8600863771614404,
+      "f1_macro": 0.3088564209150924,
+      "precision_macro": 0.3280951192624694,
+      "recall_macro": 0.3731686902323796,
+      "train_loss": 1.6047581524861274
+    },
+    "7": {
+      "accuracy": 0.4169270833333333,
+      "auc_ovr_macro": 0.8633801955166646,
+      "f1_macro": 0.36013817672910525,
+      "precision_macro": 0.37357543236288404,
+      "recall_macro": 0.4059552299118656,
+      "train_loss": 1.5547162976975488
+    },
+    "8": {
+      "accuracy": 0.3939531250000002,
+      "auc_ovr_macro": 0.870561953101031,
+      "f1_macro": 0.34218113136371714,
+      "precision_macro": 0.4028179857506481,
+      "recall_macro": 0.39520194618774873,
+      "train_loss": 1.5070479482051684
+    },
+    "9": {
+      "accuracy": 0.4157291666666665,
+      "auc_ovr_macro": 0.867800269864676,
+      "f1_macro": 0.3759749542276057,
+      "precision_macro": 0.39985418859129906,
+      "recall_macro": 0.4280997371219163,
+      "train_loss": 1.4810957019663724
+    },
+    "10": {
+      "accuracy": 0.4341822916666673,
+      "auc_ovr_macro": 0.8772623583839976,
+      "f1_macro": 0.3944940801426704,
+      "precision_macro": 0.4102138076088111,
+      "recall_macro": 0.43458069014200457,
+      "train_loss": 1.4561154159780265
+    }
+  },
+  "history_count": 45,
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 1,
+    "config_id": "q8_d1",
+    "dataset": "kmnist",
+    "lr": 0.001,
+    "model_family": "standard_qtl",
+    "num_qubits": 8,
+    "shots": 100,
+    "table": "table1"
+  },
+  "minimum_history_runs": 20,
+  "seed": 2026
+}

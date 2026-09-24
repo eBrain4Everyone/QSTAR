@@ -1,0 +1,18 @@
+{
+  "command": [
+    "python",
+    "/scratch/sr7849/QC_June28/acceptance_validation/adapters/candidate160_adapter.py",
+    "--root",
+    "/scratch/sr7849/QC_June28",
+    "--seed",
+    "550",
+    "--output",
+    "/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_550/metrics.csv",
+    "--checkpoint-dir",
+    "/scratch/sr7849/QC_June28/qstar_icasp_validation/runs/20260915_205837/candidate160/seed_550/checkpoints"
+  ],
+  "h5": "/scratch/sr7849/QC_June28/tables34_multiseed_runs/run_20260816_151916/pennylane_data/table4/seed_550_candidate_160/ketgpt/ketgpt.h5",
+  "mode": "candidate160",
+  "seed": 550,
+  "status": "COMPLETE"
+}

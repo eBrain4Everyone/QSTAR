@@ -1,0 +1,34 @@
+{
+  "actual_epochs": {
+    "4": {
+      "accuracy": 0.48533333333333334,
+      "auc_ovr_macro": 0.9014932566815947,
+      "f1_macro": 0.43683121169301115,
+      "precision_macro": 0.49659389346448657,
+      "recall_macro": 0.4988526935031824,
+      "train_loss": 1.3988698512539828
+    },
+    "5": {
+      "accuracy": 0.4613333333333333,
+      "auc_ovr_macro": 0.8931157452668378,
+      "f1_macro": 0.4005714429602897,
+      "precision_macro": 0.45171666983947806,
+      "recall_macro": 0.47062118616990445,
+      "train_loss": 1.314071812127766
+    },
+    "6": {
+      "accuracy": 0.5453333333333333,
+      "auc_ovr_macro": 0.9118325054380734,
+      "f1_macro": 0.49918734515020413,
+      "precision_macro": 0.5399209533956715,
+      "recall_macro": 0.5499898487181795,
+      "train_loss": 1.239376993331694
+    }
+  },
+  "allow_stop": false,
+  "checked_values": 8,
+  "forecast_source": "/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/runs/cifar10/run_20260921_164946/checkpoints/table1/standard_qtl/seed_550_q8_d1/q8_d1/flashjt_forecast_epoch3.json",
+  "max_relative_error": 0.10013999277456649,
+  "mean_relative_error": 0.04286082164120408,
+  "reason": "individual_error_failed:accuracy@5"
+}

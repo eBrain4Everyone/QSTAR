@@ -1,0 +1,85 @@
+{
+  "completed_full_run": false,
+  "epochs": [
+    {
+      "epoch": 1,
+      "metrics": {
+        "accuracy": 0.368,
+        "auc_ovr_macro": 0.8049012406624027,
+        "f1_macro": 0.24433050815476393,
+        "precision_macro": 0.3230412635698164,
+        "recall_macro": 0.27240614917329087,
+        "train_loss": 2.0428268394075837
+      }
+    },
+    {
+      "epoch": 2,
+      "metrics": {
+        "accuracy": 0.41733333333333333,
+        "auc_ovr_macro": 0.8299697447715817,
+        "f1_macro": 0.3191756353531868,
+        "precision_macro": 0.3535111733621587,
+        "recall_macro": 0.3307062926942603,
+        "train_loss": 1.7792185867639412
+      }
+    },
+    {
+      "epoch": 3,
+      "metrics": {
+        "accuracy": 0.4613333333333333,
+        "auc_ovr_macro": 0.8487809358627594,
+        "f1_macro": 0.3695927959542056,
+        "precision_macro": 0.43291325212307363,
+        "recall_macro": 0.3853132167455554,
+        "train_loss": 1.638256652014596
+      }
+    },
+    {
+      "epoch": 4,
+      "metrics": {
+        "accuracy": 0.5013333333333333,
+        "auc_ovr_macro": 0.8610999569291522,
+        "f1_macro": 0.4181381127644201,
+        "precision_macro": 0.4379614128250403,
+        "recall_macro": 0.4390574933662778,
+        "train_loss": 1.5476920752597034
+      }
+    },
+    {
+      "epoch": 5,
+      "metrics": {
+        "accuracy": 0.5106666666666667,
+        "auc_ovr_macro": 0.8651537149651529,
+        "f1_macro": 0.4137165055133636,
+        "precision_macro": 0.4528415021844473,
+        "recall_macro": 0.43294487510916635,
+        "train_loss": 1.4726784009682505
+      }
+    },
+    {
+      "epoch": 6,
+      "metrics": {
+        "accuracy": 0.49733333333333335,
+        "auc_ovr_macro": 0.8691800264283094,
+        "f1_macro": 0.4164000734489569,
+        "precision_macro": 0.46269666947232774,
+        "recall_macro": 0.4386858525896161,
+        "train_loss": 1.405582003351441
+      }
+    }
+  ],
+  "metadata": {
+    "batch_size": 16,
+    "candidate_id": 0,
+    "circuit_depth": 0,
+    "config_id": "adaptive_candidate160_confidence_linear",
+    "dataset": "svhn",
+    "lr": 0.001,
+    "model_family": "confidence_linear",
+    "num_qubits": 0,
+    "shots": 0,
+    "table": "table2"
+  },
+  "seed": 2026,
+  "stop_reason": "flashjt_validated"
+}
