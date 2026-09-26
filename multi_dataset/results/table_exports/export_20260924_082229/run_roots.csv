@@ -1,4 +1,0 @@
-dataset,run_root
-cifar10,/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/runs/cifar10/run_20260921_164946
-kmnist,/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/runs/kmnist/run_20260922_213814
-svhn,/scratch/sr7849/QC_June28/ICASSP_multiseed_new_datasets/runs/svhn/run_20260922_213846

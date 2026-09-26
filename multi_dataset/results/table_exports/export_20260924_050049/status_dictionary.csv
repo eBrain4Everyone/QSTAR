@@ -1,8 +1,0 @@
-label,meaning
-TABLE_READY,All five expected seed result rows are available.
-PROVISIONAL_ONLY,Incomplete experiment; aggregate uses only currently final seeds.
-FULL_TRAINING,Five final seeds; assisted seeds also reached epoch 10.
-FLASHJT_ASSISTED,Five final seeds; assisted seeds used the validated FlashJT stopping point.
-HYBRID_FULL_FLASHJT,Five final seeds; one assisted seed stopped through FlashJT and another ran to epoch 10.
-INCOMPLETE,Not all five final result rows are available.
-EARLY_FINAL_REVIEW,Final assisted result appears at an unusual epoch; inspect provenance before publication.
